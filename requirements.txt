@@ -1,0 +1,9 @@
+streamlit
+litellm
+pandas
+openpyxl
+pypdfium2
+Pillow
+pytesseract
+python-dotenv
+pydantic>=2
